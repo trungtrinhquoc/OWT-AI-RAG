@@ -1,0 +1,36 @@
+INFORMATION
+Personal Information
+Full Name: Trinh Quoc Trung
+Date of Birth: 2004
+Email: trinhquoctrung10504@gmail.com
+Phone: +84 865498733
+Hometown: Da Nang, Vietnam
+Education
+• Final-year student at FPT University, majoring in Software Engineering. • Strong interest in Artificial Intelligence (AI), Software Development, and Data
+Engineering. Experience
+• Internship at FPT Software Da Nang
+Worked on real-world software development projects, gaining hands-on experience in
+coding, teamwork, and project management. • AI Engineer Intern at Open Web Technology
+Currently focusing on AI solutions, including machine learning, natural language
+processing (NLP), and data analysis. Skills • Programming Languages: Java, Python, C#, JavaScript • Web Development: JSP/Servlet, Spring Boot, ASP.NET Core MVC
+• Databases: SQL Server, MySQL • Others: Arduino, Data Processing, Statistics, LLM Applications
+Projects1. Online Library Management System (PRJ301) o
+Built with JSP, Servlet, SQL Server
+o Features: Book management, borrowing/returning, authentication, and
+rolebased access. 2. Line-Tracking Car o Arduino-based project
+with infrared sensors. o Developed algorithms for autonomous movement. 3. Room Rental Search Website (project_prj) o
+Java Web project using JSP/Servlet. o Features: Room listings, user management, and online payments. Hobbies & Interests • Exploring new AI frameworks and technologies. • Building side projects related to data-driven applications. • Traveling and discovering local cultures, especially in Da Nang. Da Nang City Information
+Overview
+Da Nang is a coastal city in central Vietnam, located between Hanoi and Ho Chi Minh City. It is
+well known for its beaches, mountains, and bridges, and is often referred to as the "livable city" of Vietnam. Famous Landmarks • Dragon Bridge: A unique bridge that breathes fire and water on weekends. • My Khe Beach: One of the most beautiful beaches in Vietnam, popular with both tourists
+and locals. • Marble Mountains: A cluster of limestone and marble hills with caves, pagodas, and
+panoramic views.• Ba Na Hills & Golden Bridge: A mountain resort famous for the Golden
+Bridge held by
+giant stone hands. Culture & Lifestyle
+• People in Da Nang are known for being friendly and hospitable.
+• The city is clean, modern, and has a slower pace of life compared to Hanoi or Ho Chi
+Minh City. Economy & Education
+• Da Nang is a growing tech hub, with many IT companies and software parks. • It has several universities, including the University of Da Nang and branches of
+international institutions. Transportation
+• Da Nang International Airport connects the city to many domestic and international
+destinations. • Modern infrastructure makes it convenient to travel to Hoi An and Hue nearby
