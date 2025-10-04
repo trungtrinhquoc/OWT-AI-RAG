@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "01-simple-llm-app"
+version = "0.1.0"
+description = "Simple LangChain LLM App with LangServe (compatible set)"
+authors = ["you <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.4"
+python-dotenv = "^1.0.1"
+
+# LangChain 0.2.x ecosystem (compatible with langserve 0.2.2)
+langchain = "0.2.12"
+langchain-core = "0.2.34"
+langchain-community = "0.2.11"
+
+# Google Gemini integration (version that supports langchain-core <0.3)
+langchain-google-genai = "1.0.10"
+
+# LangServe for deployment (requires langchain-core <0.3)
+langserve = "0.2.2"
+
+# Web / serve dependencies
+fastapi = "0.112.0"
+sse-starlette = "1.8.2"
+jupyterlab = "^4.2.4"
+httpx = "<0.28.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
